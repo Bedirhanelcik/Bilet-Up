@@ -12,7 +12,7 @@ BiletUp brings together the kind of real-world product surface a live ticketing 
 
 ## Preview
 
-*Screenshots pending — see [`docs/screenshots/`](docs/screenshots/) for the exact captures needed. The homepage screenshot will be embedded here first.*
+![BiletUp homepage](docs/screenshots/home.png)
 
 ---
 
@@ -262,7 +262,25 @@ Turkish · English · German · Arabic · French · Spanish · Portuguese · Ita
 
 ## 13. Screenshots
 
-Not yet captured in this pass. `docs/screenshots/` has the exact checklist (homepage, event detail, event discovery, organizer dashboard — homepage first) and the filenames this README is already wired to embed once they're added: `desktop-homepage.png`, `desktop-event-detail.png`, `desktop-events.png`, `desktop-organizer.png`. In the meantime, the [live demo](#live-demo) above shows the real, current UI.
+The homepage is shown at the top of this README, under [Preview](#preview). The rest of the homepage, plus event detail and ticketing:
+
+**Featured & trending events**
+![Featured events on the BiletUp homepage](docs/screenshots/1.png)
+
+**City rails & trending now**
+![City and trending rails on the BiletUp homepage](docs/screenshots/2.png)
+
+**Browse by category**
+![Category browsing on the BiletUp homepage](docs/screenshots/3.png)
+
+**Popular organizers & personalized recommendations**
+![Popular organizers and personalization on the BiletUp homepage](docs/screenshots/4.png)
+
+**Event detail**
+![BiletUp event detail page](docs/screenshots/5.png)
+
+**Ticket detail & QR check-in**
+![BiletUp ticket detail page with QR code](docs/screenshots/6.png)
 
 ## 14. Project structure
 
